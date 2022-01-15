@@ -3,7 +3,7 @@ web scraping and data parsing library
 -------------------------------------
 installation
 ---------------------------------------
- pip install wscrpy
+<h3 > pip install wscrpy </h3>
 -----------------------
 <img src="https://i.ibb.co/8bb3Dvf/2022-01-14-101645.jpg" > </img>
 #### import Main_request from wscrpy
